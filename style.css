@@ -276,6 +276,11 @@ h3 {
   font-family: 'Merriweather', serif;
 }
 
+h4 {
+  font-size: 100%;
+  line-height: 1;
+}
+
 h1 {
   margin: 170px 0 0;
   font-size: 300%;
