@@ -305,8 +305,8 @@ ul {
   line-height: 1.375;
 }
 
-.li h5 {
-  font-size: 200%;
+h5 {
+  font-weight: 100;
 }
 
 blockquote {
