@@ -296,7 +296,11 @@ h3 {
   padding-bottom: 15px;
   font-size: 140%;
   line-height: 1.2;
-  border-bottom: 2px ridge #a6e22e;
+  border-bottom: 2px ridge #fafafa;
+}
+
+h4 {
+  color: rgba(255, 255, 255, 0.4);
 }
 
 ul {
