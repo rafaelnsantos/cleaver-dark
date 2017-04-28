@@ -318,7 +318,10 @@ ul {
 
 ol {
     list-style-type: none;
-    counter-increment: step-counter;
+}
+
+li {
+  counter-increment: step-counter;
 }
 
 li::before {
