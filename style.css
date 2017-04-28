@@ -332,7 +332,7 @@ li::before {
     border-radius: 3px;
 }
 
-desativado {
+.desativado {
   opacity: 0.2;
 }
 
