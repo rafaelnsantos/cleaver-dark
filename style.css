@@ -28,17 +28,7 @@ light green : #a6e22e
        url('fonts/titulo.woff') format('woff');
 }
 
-@font-face {
-  font-family: 'Corpo';
-  font-style: normal;
-  src: url('fonts/corpo-regular.woff') format('woff');
-}
-
-@font-face {
-  font-family: 'Corpo Light';
-  font-style: normal;
-  src: url('fonts/corpo-light.woff') format('woff');
-}
+@import url('https://fonts.googleapis.com/css?family=Lato');
 
 @font-face {
   font-family: 'Open Sans';
