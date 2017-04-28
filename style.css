@@ -171,7 +171,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 100%;
   color: #fafafa;
-  background-color: #191919;
+  background-color: #000000;
 }
 
 /* Custom Slide Styles */
@@ -429,7 +429,7 @@ table th {
 .progress-bar {
   height: 3px;
   width: 0;
-  background-color: #a6e22e;
+  background-color: #66d9ef;
   -webkit-transition: width .15s ease-out;
      -moz-transition: width .15s ease-out;
        -o-transition: width .15s ease-out;
