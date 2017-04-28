@@ -201,11 +201,13 @@ body {
 #slide-1 h1 {
   text-shadow: 1px 2px 4px #191919;
   font-family: 'Titulo', 'Merriweather', serif;
+  font-size: 220%;
 }
 
 
 #slide-1 h2 {
   font-family: 'Corpo Light';
+  font-size: 100%;
 }
 
 #slide-1 p {
