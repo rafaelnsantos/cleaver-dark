@@ -316,7 +316,7 @@ ul {
   line-height: 1.375;
 }
 
-li {
+ol {
     list-style-type: none;
     counter-increment: step-counter;
 }
