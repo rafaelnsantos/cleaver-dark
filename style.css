@@ -316,6 +316,11 @@ ul {
   line-height: 1.375;
 }
 
+li {
+    list-style-type: none;
+    counter-increment: step-counter;
+}
+
 li::before {
     content: counter(step-counter);
     margin-right: 5px;
