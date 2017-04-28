@@ -337,7 +337,7 @@ li::before {
 }
 
 .descricao {
-  color: #efefef;
+  color: rgb(150, 150, 150);
 }
 
 blockquote {
