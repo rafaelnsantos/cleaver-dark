@@ -332,6 +332,10 @@ li::before {
     border-radius: 3px;
 }
 
+desativado {
+  opacity: 0.2;
+}
+
 blockquote {
   padding-left: 20px;
   margin-left: 0;
