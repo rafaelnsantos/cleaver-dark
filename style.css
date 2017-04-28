@@ -24,10 +24,8 @@ light green : #a6e22e
 
 @font-face {
   font-family: 'Titulo';
-  font-style: normal;
   src: url('fonts/titulo.woff2') format('woff2'),
-       url('fonts/titulo.woff') format('woff'),
-       url('fonts/titulo.ttf') format('truetype');
+       url('fonts/titulo.woff') format('woff');
 }
 
 @font-face {
