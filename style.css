@@ -316,7 +316,8 @@ ul {
   line-height: 1.375;
 }
 
-ol {
+ol,
+ul {
     list-style-type: none;
 }
 
