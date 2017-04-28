@@ -277,17 +277,17 @@ h3 {
 }
 
 h1 {
-  margin: 170px 0 0;
-  font-size: 300%;
-  text-align: center;
+  margin: 150px 20px 0;
+  font-size: 260%;
+  text-align: left;
   line-height: 1.2;
 }
 
 h2 {
-  margin: 5px 0;
-  font-size: 100%;
+  margin: 5px 20px;
+  font-size: 115%;
   font-weight: 200;
-  text-align: center;
+  text-align: left;
   line-height: 1.2;
 }
 
