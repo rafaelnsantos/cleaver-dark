@@ -24,16 +24,19 @@ light green : #a6e22e
 
 @font-face {
   font-family: 'Titulo';
+  font-style: normal;
   src: url('fonts/titulo-bold.woff') format('woff');
 }
 
 @font-face {
   font-family: 'Corpo';
+  font-style: normal;
   src: url('fonts/corpo-regular.woff') format('woff');
 }
 
 @font-face {
   font-family: 'Corpo Light';
+  font-style: normal;
   src: url('fonts/corpo-light.woff') format('woff');
 }
 
