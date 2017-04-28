@@ -341,7 +341,7 @@ li::before {
 }
 
 .destaque {
-  color: #66d9ef;
+  color: rgb(0,176,240);
 }
 
 blockquote {
