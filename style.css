@@ -23,6 +23,21 @@ light green : #a6e22e
 }
 
 @font-face {
+  font-family: 'Titulo';
+  src: url('fonts/titulo-bold.woff');
+}
+
+@font-face {
+  font-family: 'Corpo';
+  src: url('fonts/corpo-regular.woff');
+}
+
+@font-face {
+  font-family: 'Corpo Light';
+  src: url('fonts/corpo-light.woff');
+}
+
+@font-face {
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: 400;
@@ -182,6 +197,12 @@ body {
 
 #slide-1 h1 {
   text-shadow: 1px 2px 4px #191919;
+  font-family: 'Titulo';
+}
+
+
+#slide-1 h2 {
+  font-family: 'Corpo Light';
 }
 
 #slide-1 p {
