@@ -326,7 +326,7 @@ li::before {
     content: counter(step-counter);
     margin-right: 5px;
     font-size: 125%;
-    color: rgb(0,176,240);
+    color: rgb(0, 176, 240);
     font-weight: bold;
     padding: 3px 8px;
 }
@@ -340,7 +340,7 @@ li::before {
 }
 
 .destaque {
-  color: rgb(0,176,240);
+  color: rgb(0, 176, 240);
 }
 
 blockquote {
@@ -378,6 +378,7 @@ blockquote p {
   font-weight: 100;
   text-align: center;
   border: none;
+  margin: 0;
 }
 
 .author h3.twitter::before {
