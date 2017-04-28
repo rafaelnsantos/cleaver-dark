@@ -375,6 +375,7 @@ blockquote p {
   font-weight: 100;
   text-align: center;
   border: none;
+  border-bottom: 2px ridge #fafafa;
 }
 
 .author h3.twitter::before {
