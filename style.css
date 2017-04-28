@@ -340,6 +340,10 @@ li::before {
   color: rgb(110, 110, 110);
 }
 
+.destaque {
+  color: #66d9ef;
+}
+
 blockquote {
   padding-left: 20px;
   margin-left: 0;
